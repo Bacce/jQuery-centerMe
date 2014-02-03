@@ -1,10 +1,11 @@
-centerME - jQuery micro library to center html absolute elements.
+<h1>centerME</h1> 
+<h3>jQuery micro library to center html absolute elements.</h3>
 
-<h2>Usage:</h2>
+<h3>Usage:</h3>
 
-$('#testdiv').centerHorizontal(); - Horizontally center the element
-$('#testdiv').centerVertical(); - Vertically center the element
-$('#testdiv').centerBoth(); - Horizontally and vertically center the element
-
+$('#testdiv').centerHorizontal(); - Horizontally center the element<br>
+$('#testdiv').centerVertical(); - Vertically center the element<br>
+$('#testdiv').centerBoth(); - Horizontally and vertically center the element<br>
+<p>
 And that's all.
-Use it responsibly.
+Use it responsibly.</p>
